@@ -4,4 +4,6 @@
 
 2) Get ASCOM driver
 
+  Set properties before connection. Default is absolute position and  COMM port.
+
 
